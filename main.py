@@ -17,8 +17,7 @@ logging.basicConfig(level=logging.INFO,
 print(r'''
 **************************************
     欢迎使用i茅台自动预约工具
-    作者GitHub：https://github.com/Lemon-dss/iMaoTai-reserve-master
-    vx：cyj2575174148 加好友注明来意
+
 **************************************
 ''')
 
